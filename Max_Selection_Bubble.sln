@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Max_Selection_Bubble", "Max_Selection_Bubble\Max_Selection_Bubble.vcxproj", "{67F1CAB4-1B2F-2E56-B5B4-6248377AF368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F1CAB4-1B2F-2E56-B5B4-6248377AF368}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67F1CAB4-1B2F-2E56-B5B4-6248377AF368}.Debug|Win32.Build.0 = Debug|Win32
+		{67F1CAB4-1B2F-2E56-B5B4-6248377AF368}.Release|Win32.ActiveCfg = Release|Win32
+		{67F1CAB4-1B2F-2E56-B5B4-6248377AF368}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
